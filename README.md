@@ -8,10 +8,14 @@
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Network%20Security-2563EB?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Documentation-24292F?style=for-the-badge)
 
-**Project Type:** Cybersecurity Homelab
-**Focus:** Network Security, Intrusion Detection, SOC Analysis
-**Environment:** Controlled Home Network
-**Status:** Baseline Investigation Completed
+
+| Project Detail | Description |
+|---|---|
+| **Project Type** | Cybersecurity Homelab |
+| **Focus** | Network Security, Intrusion Detection, SOC Analysis |
+| **Environment** | Controlled Home Network |
+| **Status** | Baseline Investigation Completed |
+
 
 ---
 

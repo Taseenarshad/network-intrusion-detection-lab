@@ -1,0 +1,7 @@
+.DS_Store
+captures/*
+logs/*
+*.pcap
+*.pcapng
+*.log
+*.json
